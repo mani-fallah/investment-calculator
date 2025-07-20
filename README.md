@@ -1,4 +1,7 @@
-# Chapter4
+# Investment calculator
+
+
+i took this project from udemy angular course and upgraded it and developed it with another ui and added some good stuff to it.
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.1.
 
