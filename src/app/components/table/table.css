@@ -37,3 +37,6 @@ table tbody {
   font-size: 0.85rem;
   color: #004080; /* آبی تیره‌تر */
 }
+.center{
+  text-align: center;
+}
